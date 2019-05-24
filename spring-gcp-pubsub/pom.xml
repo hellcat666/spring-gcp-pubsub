@@ -6,7 +6,7 @@
 	<artifactId>spring-gcp-pubsub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-gcp-pubsub</name>
-	<description>SpringBoot Test Project for MySQL Google Cloud Access</description>
+	<description>SpringBoot Test Project for Google Cloud PubSub</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
